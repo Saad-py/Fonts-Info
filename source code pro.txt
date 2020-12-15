@@ -1,0 +1,1 @@
+Source Code Pro is a set of monospaced OpenType fonts that have been designed to work well in coding environments. This family of fonts is a complementary design to the Source Sans family. It is available in seven weights (Extralight, Light, Regular, Medium, Semibold, Bold, Black). Usually used in programming and to type small bits of codein a google doc.
